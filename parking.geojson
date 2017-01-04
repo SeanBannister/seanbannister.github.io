@@ -4,8 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "1",
-        "highlighted": ""
+        "id": 1
       },
       "geometry": {
         "type": "Polygon",

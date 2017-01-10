@@ -4,8 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1,
-        "test": "test1"
+        "parkID": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -38,7 +37,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 2
+        "parkID": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -71,7 +70,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 3
+        "parkID": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -104,7 +103,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 4 
+        "parkID": 4 
       },
       "geometry": {
         "type": "Polygon",
@@ -137,7 +136,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 5
+        "parkID": 5
       },
       "geometry": {
         "type": "Polygon",
@@ -170,7 +169,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 6
+        "parkID": 6
       },
       "geometry": {
         "type": "Polygon",
